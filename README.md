@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.com/Steingrimurjonsson/F2w1.svg?branch=master)](https://travis-ci.com/Steingrimurjonsson/CORSrest)
 
 *This project is meant as start code for projects and exercises given in Flow-1+2 at http://cphbusiness.dk in the Study Program "AP degree in Computer Science"*
 
